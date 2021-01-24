@@ -1,0 +1,822 @@
+[{
+		"grupp": "grupp 1",
+		"verbs": [{
+				"name": "anteckna",
+				"tenses": ["anteckna!", "antecknar", "antecknade", "antecknat"]
+			},
+			{
+				"name": "arbeta",
+				"tenses": ["arbeta!", "arbetar", "arbetade", "arbetat"]
+			},
+			{
+				"name": "bada",
+				"tenses": ["bada!", "badar", "badade", "badat"]
+			},
+			{
+				"name": "berätta",
+				"tenses": ["berätta!", "berättar", "berättade", "berättat"]
+			},
+			{
+				"name": "betala",
+				"tenses": ["betala!", "betalar", "betalade", "betalat"]
+			},
+			{
+				"name": "blinka",
+				"tenses": ["blinka!", "blinkar", "blinkade", "blinkat"]
+			},
+			{
+				"name": "bädda",
+				"tenses": ["bädda!", "bäddar", "bäddade", "bäddat"]
+			},
+			{
+				"name": "börja",
+				"tenses": ["börja!", "börjar", "började", "börjat"]
+			},
+			{
+				"name": "cykla",
+				"tenses": ["cykla!", "cyklar", "cyklade", "cyklat"]
+				},
+			{
+				"name": "dansa",
+				"tenses": ["dansa!", "dansar", "dansade", "dansat"]
+				},
+			{
+				"name": "dela",
+				"tenses": ["dela!", "delar", "delade", "delat"]
+				},
+			{
+				"name": "diska",
+				"tenses": ["diska!", "diskar", "diskade", "diskat"]
+				},
+			{
+				"name": "diskutera",
+				"tenses": ["diskutera!", "diskuterar", "diskuterade", "diskuterat"]
+				},
+			{
+				"name": "duscha",
+				"tenses": ["duscha!", "duschar", "duschade", "duschat"]
+				},
+			{
+				"name": "fastna",
+				"tenses": ["fastna!", "fastnar", "fastnade", "fastnat"]
+				},
+			{
+				"name": "flytta",
+				"tenses": ["flytta!", "flyttar", "flyttade", "flyttat"]
+				},
+			{
+				"name": "fråga",
+				"tenses": ["fråga!", "frågar", "frågade", "frågat"]
+				},
+			{
+				"name": "förklara",
+				"tenses": ["förklara!", "förklarar", "förklarade", "förklarat"]
+				},
+			{
+				"name": "hata",
+				"tenses": ["hata!", "hatar", "hatade", "hatat"]
+				},
+			{
+				"name": "hosta",
+				"tenses": ["hosta!", "hostar", "hostade", "hostat"]
+				},
+			{
+				"name": "hälsa",
+				"tenses": ["hälsa!", "hälsar", "hälsade", "hälsat"]
+				},
+			{
+				"name": "hämta",
+				"tenses": ["hämta!", "hämtar", "hämtade", "hämtat"]
+				},
+			{
+				"name": "intervjua",
+				"tenses": ["intervjua!", "intervjuar", "intervjuade", "intervjuat"]
+				},
+			{
+				"name": "kasta",
+				"tenses": ["kasta!", "kastar", "kastade", "kastat"]
+				},
+			{
+				"name": "klara",
+				"tenses": ["klara!", "klarar", "klarade", "klarat"]
+				},
+			{
+				"name": "kontrollera",
+				"tenses": ["kontrollera!", "kontrollerar", "kotrollerade", "kontrollerat"]
+				},
+			{
+				"name": "krama",
+				"tenses": ["krama!", "kramar", "kramade", "kramat"]
+				},
+			{
+				"name": "laga",
+				"tenses": ["laga!", "lagar", "lagade", "lagat"]
+				},
+			{
+				"name": "likna",
+				"tenses": ["likna!", "liknar", "liknade", "liknat"]
+				},
+			{
+				"name": "lukta",
+				"tenses": ["lukta!", "luktar", "luktade", "luktat"]
+				},
+			{
+				"name": "lyssna",
+				"tenses": ["lyssna!", "lyssnar", "lyssnade", "lyssnat"]
+				},
+			{
+				"name": "låna",
+				"tenses": ["låna!", "lånar", "lånade", "lånat"]
+				},
+			{
+				"name": "meddela",
+				"tenses": ["meddela!", "meddelar", "meddelade", "meddelat"]
+				},
+			{
+				"name": "parkera",
+				"tenses": ["parkera!", "parkerar", "parkerade", "parkerat"]
+				},
+			{
+				"name": "promenera",
+				"tenses": ["promenera!", "promenerar", "promenerade", "promenerat"]
+				},
+			{
+				"name": "regna",
+				"tenses": ["regna!", "regnar", "regnade", "regnat"]
+				},
+			{
+				"name": "rita",
+				"tenses": ["rita!", "ritar", "ritade", "ritat"]
+				},
+			{
+				"name": "ropa",
+				"tenses": ["ropa!", "ropar", "ropade", "ropat"]
+				},
+			{
+				"name": "räkna",
+				"tenses": ["räkna!", "räknar", "räknade", "räknat"]
+				},
+			{
+				"name": "sakna",
+				"tenses": ["sakna!", "saknar", "saknade", "saknat"]
+				},
+			{
+				"name": "samarbeta",
+				"tenses": ["samarbeta!", "samarbetar", "samarbetade", "samarbetat"]
+				},
+			{
+				"name": "samla",
+				"tenses": ["samla!", "samlar", "samlade", "samlat"]
+				},
+			{
+				"name": "servera",
+				"tenses": ["servera!", "serverar", "serverade", "serverat"]
+				},
+			{
+				"name": "simma",
+				"tenses": ["simma!", "simmar", "simmade", "simmat"]
+				},
+			{
+				"name": "skada",
+				"tenses": ["skada!", "skadar", "skadade", "skadat"]
+				},
+			{
+				"name": "skicka",
+				"tenses": ["skicka!", "skikar", "skickade", "skickat"]
+				},
+			{
+				"name": "sluta",
+				"tenses": ["sluta!", "slutar", "slutade", "slutat"]
+				},
+			{
+				"name": "smaka",
+				"tenses": ["smaka!", "smakar", "smakade", "smakat"]
+				},
+			{
+				"name": "snöa",
+				"tenses": ["snöa!", "snöar", "snöade", "snöat"]
+				},
+			{
+				"name": "spela",
+				"tenses": ["spela!", "spelar", "spelade", "spelat"]
+				},
+			{
+				"name": "stanna",
+				"tenses": ["stanna!", "stannar", "stannade", "stannat"]
+				},
+			{
+				"name": "studera",
+				"tenses": ["studera!", "studerar", "studerade", "studerat"]
+				},
+			{
+				"name": "svara",
+				"tenses": ["svara!", "svarar", "svarade", "svarat"]
+				},
+			{
+				"name": "städa",
+				"tenses": ["städa!", "städar", "städade", "städat"]
+				},
+			{
+				"name": "tacka",
+				"tenses": ["tacka!", "tackar", "tackade", "tackat"]
+				},
+			{
+				"name": "tala",
+				"tenses": ["tala!", "talar", "talade", "talat"]
+				},
+			{
+				"name": "titta",
+				"tenses": ["titta!", "tittar", "tittade", "tittat"]
+				},
+			{
+				"name": "träffa",
+				"tenses": ["träffa!", "träffar", "träffade", "träffat"]
+				},
+			{
+				"name": "träna",
+				"tenses": ["träna!", "tränar", "tränade", "tränat"]
+				},
+			{
+				"name": "tvätta",
+				"tenses": ["tvätta!", "tvättar", "tvättade", "tvättat"]
+				},
+			{
+				"name": "vakna",
+				"tenses": ["vakna!", "vaknar", "vaknade", "vaknat"]
+				},
+			{
+				"name": "vänta",
+				"tenses": ["vänta!", "väntar", "väntade", "väntat"]
+				},
+			{
+				"name": "växla",
+				"tenses": ["växla!", "växlar", "växlade", "växlat"]
+				},
+			{
+				"name": "älska",
+				"tenses": ["älska!", "älskar", "älskade", "älskat"]
+				},
+			{
+				"name": "önska",
+				"tenses": ["önska!", "önskar", "önskade", "önskat"]
+				},
+			{
+				"name": "öppna",
+				"tenses": ["öppna!", "öppnar", "öppnade", "öppnat"]
+				},
+			{
+				"name": "öva",
+				"tenses": ["öva!", "övar", "övade", "övat"]
+			}
+		]
+	},
+	{
+		"grupp": "grupp 2 A",
+		"verbs": [{
+				"name": "anmäla",
+				"tenses": ["anmäl!", "anmäler", "anmälde", "anmölt"]
+				},
+			{
+				"name": "använda",
+				"tenses": ["använd!", "använder", "använde", "använt"]
+				},
+			{
+				"name": "behöva",
+				"tenses": ["behöv!", "behöver", "behövde", "behövt"]
+				},
+			{
+				"name": "beställa",
+				"tenses": ["beställ!", "beställer", "beställade", "beställt"]
+				},
+			{
+				"name": "bestämma",
+				"tenses": ["bestäm!", "bestämmer", "bestämde", "bestämt"]
+				},
+			{
+				"name": "bygga",
+				"tenses": ["bygg!", "bygger", "byggde", "byggt"]
+				},
+			{
+				"name": "böja",
+				"tenses": ["böj!", "böjer", "böjde", "böjt"]
+				},
+			{
+				"name": "drömma",
+				"tenses": ["dröm!", "drömmer", "drömde", "drömt"]
+				},
+			{
+				"name": "fylla",
+				"tenses": ["fyll!", "fyller", "fyllde", "fyllt"]
+				},
+			{
+				"name": "föda",
+				"tenses": ["föd!", "föder", "födde", "fött"]
+				},
+			{
+				"name": "följa",
+				"tenses": ["följ!", "följer", "följde", "följt"]
+				},
+			{
+				"name": "glömma",
+				"tenses": ["glöm!", "glömmer", "glömde", "glömt"]
+				},
+			{
+				"name": "hyra",
+				"tenses": ["hyr!", "hyr", "hyrde", "hyrt"]
+				},
+			{
+				"name": "höra",
+				"tenses": ["hör!", "hör", "hörde", "hört"]
+				},
+			{
+				"name": "hända",
+				"tenses": ["-", "händer", "hände", "hänt"]
+				},
+			{
+				"name": "köra",
+				"tenses": ["kör!", "kör", "körde", "kärt"]
+				},
+			{
+				"name": "lära",
+				"tenses": ["lär!", "lär", "lärde", "lärt"]
+				},
+			{
+				"name": "känna",
+				"tenses": ["känn!", "känner", "kände", "kännt"]
+				},
+			
+			{
+				"name": "tinga",
+				"tenses": ["ring!", "ringer", "ringde", "ringt"]
+				},
+			{
+				"name": "skilja",
+				"tenses": ["skilj!", "skiljer", "skiljde", "skiljt"]
+				},
+			{
+				"name": "slänga",
+				"tenses": ["släng!", "slänger", "slängde", "slängt"]
+				},
+			{
+				"name": "smälla",
+				"tenses": ["smäll!", "smäller", "smällde", "smällt"]
+				},
+			{
+				"name": "ställa",
+				"tenses": ["ställ!", "ställer", "ställde", "ställt"]
+				},
+			{
+				"name": "stänga",
+				"tenses": ["stäng!", "stänger", "stängde", "stängt"]
+				},
+			{
+				"name": "tända",
+				"tenses": ["tänd!", "tänder", "tände", "tänt"]
+				},
+			{
+				"name": "ärva",
+				"tenses": ["ärv!", "ärver", "ärvde", "ärvt"]			
+				}
+			]
+	},
+	{
+		"grupp": "grupp 2 B",
+		"verbs": [{
+				"name": "besöka",
+				"tenses": ["besök!", "besäker", "besökte", "besökt"]
+				},
+			{
+				"name": "blåsa",
+				"tenses": ["blås!", "blåser", "blåste", "blåst"]
+				},
+			{
+				"name": "gifta",
+				"tenses": ["gift!", "gifter", "gifte", "gift"]
+				},
+			{
+				"name": "hjälpa",
+				"tenses": ["hjälp!", "hjälper", "hjälpte", "hjälpt"]
+				},
+			{
+				"name": "klippa",
+				"tenses": ["klipp!", "klipper", "klippte", "klippt"]
+				},
+			{
+				"name": "köpa",
+				"tenses": ["köp!", "köper", "köpte", "köpt"]
+				},
+			{
+				"name": "leka",
+				"tenses": ["lek!", "leker", "lekte", "lekt"]
+				},
+			{
+				"name": "lyfta",
+				"tenses": ["lyft!", "lyfter", "lyfte", "lyft"]
+				},
+			{
+				"name": "läsa",
+				"tenses": ["läs!", "läser", "läste", "läst"]
+				},
+			{
+				"name": "lösa",
+				"tenses": ["lös!", "löser", "löste", "löst"]
+				},
+			{
+				"name": "möta",
+				"tenses": ["möt!", "möter", "mötte", "mött"]
+				},
+			{
+				"name": "resa",
+				"tenses": ["res!", "reser", "reste", "rest"]
+				},
+			{
+				"name": "röka",
+				"tenses": ["rök!", "röker", "rökte", "räkt"]
+				},
+			{
+				"name": "sköta",
+				"tenses": ["sköt!", "sköter", "skötte", "skött"]
+				},
+			{
+				"name": "släcka",
+				"tenses": ["släck!", "släcker", "släckte", "släckt"]
+				},
+			{
+				"name": "släppa",
+				"tenses": ["släpp!", "släpper", "släppte", "släppt"]
+				},
+			{
+				"name": "steka",
+				"tenses": ["stek!", "steker", "stekte", "stekt"]
+				},
+			{
+				"name": "söka",
+				"tenses": ["sök!", "söker", "sökte", "sökt"]
+				},
+			{
+				"name": "trycka",
+				"tenses": ["tryck!", "trycker", "tryckte", "tryckt"]
+				},
+			{
+				"name": "ticka",
+				"tenses": ["tyck!", "tycker", "tyckte", "tyckt"]
+				},
+			{
+				"name": "upptäcka",
+				"tenses": ["upptäck!", "upptäcker", "upptäckte", "upptäckt"]
+				},
+			{
+				"name": "väcka",
+				"tenses": ["väck!", "väcker", "väckte", "väckt"]
+				},
+			{
+				"name": "värka",
+				"tenses": ["värk!", "värker", "värkte", "värkt"]
+				},
+			{
+				"name": "växa",
+				"tenses": ["väx!", "växer", "växte", "växt"]
+				},
+			{
+				"name": "åka",
+				"tenses": ["åk!", "åker", "åkte", "åkt"]
+			}
+		]
+	},
+	{
+		"grupp": "grupp 3",
+		"verbs": [{
+				"name": "bo",
+				"tenses": ["bo!", "bor", "bodde", "bott"]
+				},
+			{
+				"name": "klä",
+				"tenses": ["klä!", "klär", "klädde", "klätt"]
+				},
+			{
+				"name": "bero",
+				"tenses": ["bero!", "beror", "berodde", "berott"]
+				},
+			{
+				"name": "bre",
+				"tenses": ["bre!", "brer", "bredde", "brett"]
+				},
+			{
+				"name": "bry",
+				"tenses": ["bry!", "bryr", "brydde", "brytt"]
+				},
+			{
+				"name": "må",
+				"tenses": ["må!", "mår", "mådde", "mått"]
+				},
+			{
+				"name": "strö",
+				"tenses": ["strö!", "strör", "strödde", "strött"]
+				},
+			{
+				"name": "sy",
+				"tenses": ["sy!", "syr", "sydde", "sytt"]
+				},
+			{
+				"name": "fly",
+				"tenses": ["fly!", "flyr", "flydde", "flytt"]
+				},
+			{
+				"name": "spy",
+				"tenses": ["spy!", "spyr", "spydde", "spytt"]
+				},
+			{
+				"name": "tro",
+				"tenses": ["tro!", "tror", "trodde", "trott"]
+				},
+			{
+				"name": "glo",
+				"tenses": ["glo!", "glor", "glodde", "glott"]
+				}
+		]
+	},
+	{
+		"grupp": "grupp 4 A",
+		"verbs": [{
+				"name": "bita",
+				"tenses": ["bit!", "biter", "bet", "bitit"]
+				},
+			{
+				"name": "bli",
+				"tenses": ["bli!", "blir", "blev", "blivit"]
+				},
+			{
+				"name": "glida",
+				"tenses": ["glid!", "glider", "gled", "glidit"]
+				},
+			{
+				"name": "gripa",
+				"tenses": ["grip!", "griper", "grep", "gripit"]
+				},
+			{
+				"name": "lida",
+				"tenses": ["lid!", "lider", "led", "lidit"]
+				},
+			{
+				"name": "rida",
+				"tenses": ["rid!", "rider", "red", "ridit"]
+				},
+			{
+				"name": "skina",
+				"tenses": ["skin!", "skiner", "sken", "skinit"]
+				},
+			{
+				"name": "skrika",
+				"tenses": ["skrik!", "skriker", "skrek", "skrikit"]
+				},
+			{
+				"name": "skriva",
+				"tenses": ["skriv!", "skriver", "skrev", "skrivit"]
+				},
+			{
+				"name": "slita",
+				"tenses": ["slit!", "sliter", "sled", "slitit"]
+				},
+			{
+				"name": "stiga",
+				"tenses": ["stig!", "stiger", "steg", "stigit"]
+				},
+			{
+				"name": "svika",
+				"tenses": ["svik!", "sviker", "svek", "svikit"]
+				},
+			{
+				"name": "tiga",
+				"tenses": ["tig!", "tiger", "teg", "tigit"]
+				},
+			{
+				"name": "vika",
+				"tenses": ["vik!", "viker", "vek", "vikit"]
+				}
+		]
+	},
+	{
+		"grupp": "grupp 4 B",
+		"verbs": [{
+				"name": "binda",
+				"tenses": ["bind!", "binder", "band", "bundit"]
+				},
+			{
+				"name": "brinna",
+				"tenses": ["brinn!", "brinner", "brann", "brunnit"]
+				},
+			{
+				"name": "dricka",
+				"tenses": ["drick!", "dricker", "drack", "druckit"]
+				},
+			{
+				"name": "finna",
+				"tenses": ["finn!", "finner", "fann", "funnit"]
+				},
+			{
+				"name": "finnas",
+				"tenses": ["finns!", "finns", "fanns", "funnits"]
+				},
+			{
+				"name": "försvinna",
+				"tenses": ["försvinn!", "försvinner", "försvann", "försvunnit"]
+				},
+			{
+				"name": "hinna",
+				"tenses": ["hinn!", "hinner", "hann", "hunnit"]
+				},
+			{
+				"name": "rinna",
+				"tenses": ["rinn!", "rinner", "rann", "hunnit"]
+				},
+			{
+				"name": "sitta",
+				"tenses": ["sitt!", "sitter", "satt", "suttit"]
+				},
+			{
+				"name": "slippa",
+				"tenses": ["slipp!", "slipper", "slapp", "sluppit"]
+				},
+			{
+				"name": "springa",
+				"tenses": ["spring!", "springer", "sprang", "spungit"]
+				},
+			{
+				"name": "sticka",
+				"tenses": ["stick!", "sticker", "stack", "stuckit"]
+				},
+			{
+				"name": "vanna",
+				"tenses": ["vinn!", "vinner", "vann", "vunnit"]
+				}
+ 		]
+	},
+	{
+		"grupp": "grupp 4 C",
+		"verbs": [{
+				"name": "bryta",
+				"tenses": ["bryt!", "bryter", "bröt", "brutit"]
+				},
+			{
+				"name": "flyga",
+				"tenses": ["flyg!", "flyger", "frög", "flugit"]
+				},
+			{
+				"name": "frysa",
+				"tenses": ["frys!", "flyser", "frös", "frusit"]
+				},
+			{
+				"name": "knyta",
+				"tenses": ["knyt!", "knyter", "knöt", "knutit"]
+				},
+			{
+				"name": "snyta",
+				"tenses": ["snyt!", "snyter", "snöt", "snutit"]
+				},
+			{
+				"name": "stryka",
+				"tenses": ["stryk!", "stryker", "strök", "strukit"]
+				}
+ 		]
+	},
+	{
+		"grupp": "grupp 4 D",
+		"verbs": [{
+				"name": "bjuda",
+				"tenses": ["bjud!", "bjuder", "bjöd", "bjudit"]
+				},
+			{
+				"name": "duga",
+				"tenses": ["dug!", "duger", "dög", "dugit"]
+				},
+			{
+				"name": "ljuga",
+				"tenses": ["ljug!", "ljuger", "ljöd", "ljugit"]
+				},
+			{
+				"name": "njuta",
+				"tenses": ["njut!", "njuter", "njöt", "njutit"]
+				},
+			{
+				"name": "skjuta",
+				"tenses": ["skjut!", "skjuter", "sköt", "skjutit"]
+				},
+			{
+				"name": "sluta",
+				"tenses": ["slut!", "sluter", "slöt", "slutit"]
+				},
+			{
+				"name": "suga",
+				"tenses": ["sug!", "suger", "sög", "sugit"]
+				},
+			{
+				"name": "supa",
+				"tenses": ["sup!", "super", "söp", "supit"]
+				},
+			{
+				"name": "tjuta",
+				"tenses": ["tjut!", "tjuter", "tjöt", "tjutit"]
+				}
+ 		]
+	},
+	{
+		"grupp": "grupp 4 E",
+		"verbs": [{
+				"name": "be",
+				"tenses": ["be!", "ber", "bad", "bett"]
+				},
+			{
+				"name": "dra",
+				"tenses": ["dra!", "drar", "drog", "dagit"]
+				},
+			{
+				"name": "fortsätta",
+				"tenses": ["fortsätt!", "fortsätter", "fortsatte", "fortsatt"]
+				},
+			{
+				"name": "få",
+				"tenses": ["få!", "får", "fick", "fått"]
+				},
+			{
+				"name": "förstå",
+				"tenses": ["förstå!", "förstår", "färstod", "förstått"]
+				},
+			{
+				"name": "ge",
+				"tenses": ["ge!", "ger", "gav", "gett"]
+				},
+			{
+				"name": "gå",
+				"tenses": ["gå!", "går", "gick", "gått"]
+				},
+			{
+				"name": "göra",
+				"tenses": ["gör!", "gör", "gjorde", "gjort"]
+				},
+			{
+				"name": "komma",
+				"tenses": ["kom!", "kommer", "kom", "kommit"]
+				},
+			{
+				"name": "le",
+				"tenses": ["le!", "ler", "log", "lett"]
+				},
+			{
+				"name": "ligga",
+				"tenses": ["ligg!", "ligger", "låg", "legat"]
+				},
+			{
+				"name": "lägga",
+				"tenses": ["lägg!", "lägger", "la", "lagt"]
+				},
+			{
+				"name": "se",
+				"tenses": ["se!", "ser", "såg", "sett"]
+				},
+			{
+				"name": "sova",
+				"tenses": ["sov!", "sover", "sov", "sovit"]
+				},
+			{
+				"name": "stå",
+				"tenses": ["stå!", "står", "stod", "stått"]
+				},
+			{
+				"name": "svälja",
+				"tenses": ["svälj!", "sväljer", "svalde", "svalt"]
+				},
+			{
+				"name": "säga",
+				"tenses": ["säg!", "säger", "sa", "sagt"]
+				},
+			{
+				"name": "sälja",
+				"tenses": ["sälj!", "säljer", "sålde ", "sålt"]
+				},
+			{
+				"name": "sätta",
+				"tenses": ["sätt!", "sätter", "satte", "satt"]
+				},
+			{
+				"name": "ta",
+				"tenses": ["ta!", "tar", "tog", "tagit"]
+				},
+			{
+				"name": "vara",
+				"tenses": ["var!", "är", "var", "varit"]
+				},
+			{
+				"name": "välja",
+				"tenses": ["välj!", "väljer", "valde", "valt"]
+				},
+			{
+				"name": "vänja",
+				"tenses": ["vänj!", "vänjer", "vande", "vant"]
+				},
+			{
+				"name": "översätta",
+				"tenses": ["äversätt!", "översätter", "översatte", "översatt"]
+			}
+		]
+	}
+]
