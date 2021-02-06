@@ -108,15 +108,15 @@ class GameViewController: UIViewController {
                 break
             }
         }
-        
         bttX.center = location
     }
     
     override func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent?) {
         let touch = touches.first
         location = touch!.location(in: self.view)
-    
+   
         bttX.center = location
+        
     }
     
     override func touchesEnded(_ touches: Set<UITouch>, with event: UIEvent?) {
